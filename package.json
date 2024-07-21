@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "*",
+    "serpapi": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
